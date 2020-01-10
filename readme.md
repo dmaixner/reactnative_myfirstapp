@@ -1,0 +1,1 @@
+react native first app with usage of expo cli, for details see https://facebook.github.io/react-native/docs/getting-started
